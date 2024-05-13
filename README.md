@@ -29,7 +29,15 @@ plt.show()
 
 Este código cria um conjunto de valores para t variando de 0 a 30, calcula os correspondentes valores de $f(t)$, e então plota $f(t)$ versus $t$. O resultado é um gráfico que visualiza como a taxa de crescimento de usuários muda ao longo do tempo.
 
-![Gráfico de f(t)](assets/grafico.png)
+<div align="center">
+<sub>Figura 01 - Gráfico da Função</sub>
+<br>
+<br>
+<img alt="Gráfico da Função" src="assets/grafico.png">
+<br>
+<br>
+<sup>Fonte: Material produzido pelos autores (2024)</sup>
+</div>
 
 ### b) Determine o número de meses necessário para dobrar a taxa de crescimento inicial do número de usuários da aplicação web.
 
